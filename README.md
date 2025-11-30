@@ -9,7 +9,6 @@ A simple Django + DRF project that scores and prioritizes tasks using a configur
 ## Setup Instructions
 
 1. **Clone repository**
-   ```bash
   
   git clone <your-repo-url>
   
